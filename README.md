@@ -2,7 +2,7 @@
 
 This is a frontend application built with Node.js and Express that triggers the URL shortener Azure Function. The app allows users to input a long URL and receive a short URL in return, which they can use to redirect to the original URL.
 
-Azure Function Repository: [Here](https://github.com/username/repository)
+Azure Function Repository: [Here](https://github.com/theodosiskats/UrlShortener)
 
 Live Demo: [Here](https://tkurl.herokuapp.com/)
 
